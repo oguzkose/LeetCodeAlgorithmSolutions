@@ -1,0 +1,2 @@
+https://leetcode.com/problemset/algorithms/ 
+Leetcode'de ki algoritma sorularýnýn çözümleri
