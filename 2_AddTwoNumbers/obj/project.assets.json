@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\LeetCodeAlgorithmSolutions\\1_TwoSum\\1_TwoSum.csproj",
-      "projectName": "1_TwoSum",
-      "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\LeetCodeAlgorithmSolutions\\1_TwoSum\\1_TwoSum.csproj",
+      "projectUniqueName": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\LeetCodeAlgorithmSolutions\\2_AddTwoNumbers\\2_AddTwoNumbers.csproj",
+      "projectName": "2_AddTwoNumbers",
+      "projectPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\LeetCodeAlgorithmSolutions\\2_AddTwoNumbers\\2_AddTwoNumbers.csproj",
       "packagesPath": "C:\\Users\\Oğuz KÖSE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\LeetCodeAlgorithmSolutions\\1_TwoSum\\obj\\",
+      "outputPath": "C:\\Users\\Oğuz KÖSE\\source\\repos\\oguzkose\\LeetCodeAlgorithmSolutions\\2_AddTwoNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TextFile.txt = TextFile.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_AddTwoNumbers", "2_AddTwoNumbers\2_AddTwoNumbers.csproj", "{21C24E78-99F3-4335-9016-F577D24AC8F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{BAFFDF37-C4C5-400E-8074-5CF63CDD7295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAFFDF37-C4C5-400E-8074-5CF63CDD7295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAFFDF37-C4C5-400E-8074-5CF63CDD7295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C24E78-99F3-4335-9016-F577D24AC8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C24E78-99F3-4335-9016-F577D24AC8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C24E78-99F3-4335-9016-F577D24AC8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C24E78-99F3-4335-9016-F577D24AC8F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
